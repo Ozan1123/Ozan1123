@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamad Fauzan Pratama</h1>
 <h3 align="center">and I'm a Junior Game Developer and Web Developer, from SMK PLUS PELITA NUSANTARA</h3>
 
-- 🌱 I’m currently learning **Unity,Php,JavaScript**
+- 🌱 I’m currently learning **Unity,Php,laravel,JavaScript**
 
 - 💬 Ask me about **Unity,Laravel**
 
-- 📫 How to reach me **muhammadfauzanpratama420@gmail.com**
+- 📫 How to reach me **muhammadfauzanpratama420@gmail.com/wa:0895809478855**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
