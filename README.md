@@ -5,7 +5,8 @@
 
 - 💬 Ask me about **Unity,Laravel**
 
-- 📫 How to reach me **muhammadfauzanpratama420@gmail.com/wa:0895809478855**
+- 📫 How to reach me **muhammadfauzanpratama420@gmail.com**
+- **wa:0895809478855**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
