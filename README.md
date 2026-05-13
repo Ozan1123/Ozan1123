@@ -12,12 +12,12 @@
 
 ```yaml
 name       : Muhamad Fauzan Pratama
-alias      : Ozan / Fauzbyte
+alias      : Ozan 
 school     : SMK PLUS PELITA NUSANTARA
 role       : Junior Game Developer & Web Developer
 focus      : [ Unity, Laravel, PHP, JavaScript ]
 status     : "Learning every day, one commit at a time 🚀"
-contact    : muhammadfauzanpratama420@gmail.com
+contact    : ozan@synchronizeteams.com
 ```
 
 - 🎮 Passionate about **game development** with Unity & C#
