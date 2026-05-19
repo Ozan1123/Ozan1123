@@ -74,15 +74,22 @@ contact    : ozan@synchronizeteams.com
 
 ---
 
+## ✨ Vibes
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180" alt="chibi coding"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="chibi dancing"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="chibi happy"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ozan1123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozan1123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozan1123&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ozan1123&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
