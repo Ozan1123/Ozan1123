@@ -86,12 +86,6 @@ contact    : ozan@synchronizeteams.com
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ozan1123&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -121,8 +115,8 @@ contact    : ozan@synchronizeteams.com
 <div align="center">
 
 ### 👀 Profile Views
-  
-![Profile Views](https://profile-counter.glitch.me/Ozan1123/count.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ozan1123&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
